@@ -1,1 +1,1 @@
-# my-first-sttic-web-app
+# my-first-static-web-app
